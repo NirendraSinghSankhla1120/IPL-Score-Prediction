@@ -18,7 +18,7 @@ pip install -r requirements.txt
 Python app.py
 ```
 It will give the local server. Hit the local server in the browser.
-![ScreenShot](/static/ss.png)
+![ScreenShot](/IPL/static/ss.png)
 
 
 # Predict the score for your favorite IPL team.
