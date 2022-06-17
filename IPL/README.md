@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```bash
 Python app.py
 ```
-It will give the local server. Hit the local server in the browser.
+It will give the local server. Hit the local server in the browser.<br />
 ![ScreenShot](/IPL/static/ss.png)
 
 
